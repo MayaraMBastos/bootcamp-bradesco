@@ -1,5 +1,3 @@
-# 📱 Desafio de Projeto: Modelagem UML e Implementacaoo do Componente iPhone
-
 classDiagram
     class ReprodutorMusical {
         +tocar(): void
